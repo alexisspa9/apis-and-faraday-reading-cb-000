@@ -1,6 +1,6 @@
 # APIs and Faraday
 
-## Objectives
+## Objectives 
 
 * Send `GET` requests to an API
 * Translate api requests in Postman to api requests with Faraday
